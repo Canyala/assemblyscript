@@ -1,5 +1,5 @@
 {
-  "name": "@assemblyscript/loader",
+  "name": "@canyala/loader",
   "description": "A convenient loader for AssemblyScript modules.",
   "keywords": [
     "assemblyscript",
@@ -9,8 +9,8 @@
     "webassembly",
     "wasm"
   ],
-  "version": "0.0.0",
-  "author": "Daniel Wirtz <dcode+assemblyscript@dcode.io>",
+  "version": "0.0.1",
+  "author": "Martin Fredriksson <martin@canyala.se>",
   "license": "Apache-2.0",
   "homepage": "https://assemblyscript.org",
   "repository": {
