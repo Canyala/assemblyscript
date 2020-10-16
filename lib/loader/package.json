@@ -1,6 +1,6 @@
 {
   "name": "@canyala/loader",
-  "description": "A convenient loader for AssemblyScript modules.",
+  "description": "A convenient ts friendly loader for AssemblyScript modules.",
   "keywords": [
     "assemblyscript",
     "loader",
@@ -9,7 +9,7 @@
     "webassembly",
     "wasm"
   ],
-  "version": "0.0.1",
+  "version": "0.15.2",
   "author": "Martin Fredriksson <martin@canyala.se>",
   "license": "Apache-2.0",
   "homepage": "https://assemblyscript.org",
